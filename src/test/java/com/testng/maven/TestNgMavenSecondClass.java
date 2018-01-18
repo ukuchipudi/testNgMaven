@@ -1,4 +1,4 @@
-package com.javacodegeeks.testng.maven;
+package com.testng.maven;
 
 import org.testng.annotations.Test;
 
